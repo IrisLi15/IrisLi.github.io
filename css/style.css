@@ -1,6 +1,6 @@
 :root {
     --blue-300: #93c5fd;
-    --orange-300: #fed7aa;
+    --orange-300: #ffcc93;
     --rose-200: #fecaca;
 }
 
@@ -95,7 +95,8 @@ body {
     margin-bottom: 20px;
     font-size: 24px;
     line-height: 1.5;
-    color: #000;
+    color: black;
+    padding-bottom: 30%;
 }
 
 /* Footer */
